@@ -19,5 +19,5 @@ res.redirect("/");
 });
 
 app.listen(8000,function(){
-  console.log("Server started");
+  console.log("Server ");
 });
